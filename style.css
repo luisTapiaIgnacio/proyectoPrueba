@@ -1,0 +1,11 @@
+
+
+/* Establecer una imagen de fondo sobre el degradado */
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url('./assets/img/run1.jpg');
+    background-size: cover;
+    background-position: center;
+    /* Otras propiedades de estilo para el contenido en el contenedor */
+}
